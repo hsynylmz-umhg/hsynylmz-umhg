@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/your-starry-image-link-here.jpg)
+![Banner](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
 
 <div align="center">
 
@@ -22,7 +22,7 @@ Merhaba! Ben **Hüseyin**. Evrenin çalışma prensiplerine duyduğum merakı, s
 
 - 🔭 **Şu an:** **TÜBİTAK 2209-A (qPred)** projesinde astrofiziksel veri analizi algoritmaları geliştiriyorum.
 - 🛰️ **Geçmiş:** **TEKNOFEST** kapsamında Kuantum Küp Uydu projesinde gömülü yazılım ve yer istasyonu arayüzü geliştirdim.
-- 🌱 **Öğreniyorum:** **Siber Güvenlik (Siber Vatan)**, **Linux Sistem Yönetimi** ve **Kuantum Mekaniği**.
+- 🌱 **Öğreniyorum:** **Siber Güvenlik (Siber Vatan)**, **Linux Sistem Yönetimi** ve **Etik Hack**.
 - ⚡ **İlgi Alanı:** Astrofotografi ile gökyüzünü sadece analiz etmiyor, aynı zamanda görüntülüyorum.
 
 ---
@@ -40,5 +40,5 @@ Merhaba! Ben **Hüseyin**. Evrenin çalışma prensiplerine duyduğum merakı, s
 
 ### 📊 GitHub İstatistikleri
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hsynylmz-umhg&show_icons=true&theme=dark&hide_border=true" alt="Hüseyin's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hsynylmz-umhg&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="Hüseyin Stats" />
 </div>
