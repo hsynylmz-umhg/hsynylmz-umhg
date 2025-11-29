@@ -40,5 +40,5 @@ Merhaba! Ben **Hüseyin**. Evrenin çalışma prensiplerine duyduğum merakı, s
 
 ### 📊 GitHub İstatistikleri
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hsynylmz-umhg&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="Hüseyin Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsynylmz-umhg&show_icons=true&theme=dark)
 </div>
