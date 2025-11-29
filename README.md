@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop" width="100%" style="border-radius: 10px;" alt="Space Data Banner" />
+<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2400&h=1000&fit=crop" width="100%" style="border-radius: 10px;" alt="Cinematic Space Banner" />
 
 <br/>
 <br/>
@@ -12,7 +12,7 @@
 <a href="mailto:huseyinilmaz34@gmail.com">
   <img src="https://img.shields.io/badge/Email-Bana%20Ulaşın-d14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/hsynylmz-umhg">
+<a href="https://www.linkedin.com/in/h%C3%BCseyin-yilmaz-681549344">
   <img src="https://img.shields.io/badge/LinkedIn-Hüseyin%20YILMAZ-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
@@ -25,7 +25,7 @@ Merhaba! Ben **Hüseyin**. Evrenin çalışma prensiplerine duyduğum merakı, s
 
 - 🔭 **Şu an:** **TÜBİTAK 2209-A (qPred)** projesinde astrofiziksel veri analizi algoritmaları geliştiriyorum.
 - 🛰️ **Geçmiş:** **TEKNOFEST** kapsamında Kuantum Küp Uydu projesinde gömülü yazılım ve yer istasyonu arayüzü geliştirdim.
-- 🌱 **Öğreniyorum:** **Siber Güvenlik (Siber Vatan)**, **Linux Sistem Yönetimi** ve **Kuantum Mekaniği**.
+- 🌱 **Öğreniyorum:** **Siber Güvenlik (Siber Vatan)**, **Linux Sistem Yönetimi**, **Kuantum Mekaniği**, **İstatistik** & **Veri Bilimi**.
 - ⚡ **İlgi Alanı:** Astrofotografi ile gökyüzünü sadece analiz etmiyor, aynı zamanda görüntülüyorum.
 
 ---
