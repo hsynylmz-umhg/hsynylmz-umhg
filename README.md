@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=2400&h=1000&fit=crop" width="100%" style="border-radius: 10px;" alt="Cinematic Space Banner" />
+<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=3400&h=1000&fit=crop" width="100%" style="border-radius: 10px;" alt="Cinematic Space Banner" />
 
 <br/>
 <br/>
