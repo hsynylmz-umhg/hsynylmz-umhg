@@ -1,13 +1,16 @@
-![Banner](https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1600&auto=format&fit=crop)
-
 <div align="center">
+
+<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop" width="100%" style="border-radius: 10px;" alt="Space Data Banner" />
+
+<br/>
+<br/>
 
 # 🔭 Merhaba, ben Hüseyin YILMAZ!
 
 **Astronomi ve Uzay Bilimleri Öğrencisi | Veri Bilimi & Kuantum Fiziği Meraklısı | TÜBİTAK Araştırmacısı**
 
 <a href="mailto:huseyinilmaz34@gmail.com">
-  <img src="https://img.shields.io/badge/Email-huseyinilmaz34@gmail.com-d14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Bana%20Ulaşın-d14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/hsynylmz-umhg">
   <img src="https://img.shields.io/badge/LinkedIn-Hüseyin%20YILMAZ-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,11 +21,11 @@
 ---
 
 ### 👨‍🚀 Hakkımda
-Merhaba! Ben **Hüseyin**. Evrenin çalışma prensiplerine duyduğum merakı, sadece teorik bilgiyle sınırlı tutmayıp **Veri Bilimi** ve **Yazılım** ile birleştirerek somut projelere dönüştürüyorum. "Web sitesi yapan" değil, "Veriyi işleyen ve bilimsel çözüm üreten" bir geliştiriciyim.
+Merhaba! Ben **Hüseyin**. Evrenin çalışma prensiplerine duyduğum merakı, sadece teorik bilgiyle sınırlı tutmayıp **Veri Bilimi** ve **Yazılım** ile birleştirerek somut projelere dönüştürüyorum.
 
 - 🔭 **Şu an:** **TÜBİTAK 2209-A (qPred)** projesinde astrofiziksel veri analizi algoritmaları geliştiriyorum.
 - 🛰️ **Geçmiş:** **TEKNOFEST** kapsamında Kuantum Küp Uydu projesinde gömülü yazılım ve yer istasyonu arayüzü geliştirdim.
-- 🌱 **Öğreniyorum:** **Siber Güvenlik (Siber Vatan)**, **Linux Sistem Yönetimi** ve **Etik Hack**.
+- 🌱 **Öğreniyorum:** **Siber Güvenlik (Siber Vatan)**, **Linux Sistem Yönetimi** ve **Kuantum Mekaniği**.
 - ⚡ **İlgi Alanı:** Astrofotografi ile gökyüzünü sadece analiz etmiyor, aynı zamanda görüntülüyorum.
 
 ---
@@ -40,5 +43,5 @@ Merhaba! Ben **Hüseyin**. Evrenin çalışma prensiplerine duyduğum merakı, s
 
 ### 📊 GitHub İstatistikleri
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hsynylmz-umhg&theme=dark&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsynylmz-umhg&theme=dark&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" alt="Hüseyin Streak" />
 </div>
