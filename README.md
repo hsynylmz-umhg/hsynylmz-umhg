@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-# 🔭 Merhaba, ben Hüseyin YILMAZ!
+# 🔭 Merhaba, ben HÜSEYİN!
 
 **Astronomi ve Uzay Bilimleri Öğrencisi | Veri Bilimi & Kuantum Fiziği Meraklısı | TÜBİTAK Araştırmacısı**
 
